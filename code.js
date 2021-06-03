@@ -5,7 +5,6 @@ const ffmpeg = require('ffmpeg-static')
 const cp = require('child_process');
 const fs = require('fs')
 const path = require('path')
-const prompt = require('electron-prompt');
 const app = express();
 const homedir = require('os').homedir()
 app.use(express.json());
