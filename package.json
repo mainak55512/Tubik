@@ -1,0 +1,30 @@
+{
+  "name": "tubik",
+  "productName": "Tubik",
+  "version": "1.0.0",
+  "description": "Youtube video Downloader",
+  "main": "index.js",
+  "build": {
+    "appId": "tubik",
+    "mac": {
+      "category": "Youtube video Downloader"
+    }
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "electron .",
+    "dist": "electron-builder"
+  },
+  "author": "Mainak Bhattacharjee",
+  "license": "ISC",
+  "dependencies": {
+    "electron-prompt": "^1.6.2",
+    "express": "^4.17.1",
+    "ffmpeg-static": "^4.3.0",
+    "ytdl-core": "^4.8.2"
+  },
+  "devDependencies": {
+    "electron": "^13.0.1",
+    "electron-builder": "^22.10.5"
+  }
+}
