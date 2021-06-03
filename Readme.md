@@ -2,8 +2,8 @@
 
 Tubik is a youtube video downloader using "youtube-dl" as its core.
 
-![Screenshot_2021-06-03_12-34-45](media/Screenshot_2021-06-03_12-34-45.png)
-![Screenshot_2021-06-03_12-38-47](media/Screenshot_2021-06-03_12-38-47.png)
+![Screenshot_2021-06-03_12-34-45](./pictures/Screenshot_2021-06-03_12-34-45.png)
+![Screenshot_2021-06-03_12-38-47](./pictures/Screenshot_2021-06-03_12-38-47.png)
 
 
 
